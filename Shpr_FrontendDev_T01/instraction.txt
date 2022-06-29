@@ -1,0 +1,36 @@
+Please take colors.txt and textDetails.txt files as a reference of Cascading Style Sheets for designing the webpages.
+
+Take file 001Shpr_DesktopDesign.png as a reference for developing desktop page
+and 
+Take file 002Shpr_MobileDesign.png as a reference for developing mobile device page.
+
+You have to complete the front end design of the given two png files by using HTML5, CSS3 and Bootstrap(any verviosn).
+We are expecting you to write clean, structured code. Please follow the industrial standard of writing the code.
+
+
+1. In your designed web page, all the text decoration should be taken from colors.txt and textDetails.txt.
+2. In your designed web page, all images/icons should be taken from the given files.
+3. The Design should be in one page, which should be a multi-devices compatible website.
+4. You Can us Bootstrap any version.
+5. You can use media query.
+6. Header and Footer part of the given design you can avoid.
+
+
+***Note: on hover to all the button cursor should change to pointer.
+***Note: Please make sure on click of every button on this page, one new page should open in a new tab. Redirect URL is : https://www.shoppre.com/
+
+you are allowed to do any kind of out of box CSS effect on button click, on hover on a button and on submit of the form.
+
+
+
+Please share the final file in zip format.
+Name of the file should be : <yourName>_13062021ForntEnd_T01.zip
+
+example: if your name is sachin then your submitted file name should be sachin_13062021FrontEnd_T01.zip
+
+
+
+
+
+
+				********** ALL THE BEST **********

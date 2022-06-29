@@ -1,0 +1,15 @@
+.logo{
+    height:50px;
+}
+.navbar-custom {
+    background-color: #1B3043;
+    font-family: Open Sans;
+}
+.check{
+    text-align: right;
+}
+.bg{
+    background-image: url(huge-distribution-warehouse.png);
+    height:600 px;
+    color: white;
+}
